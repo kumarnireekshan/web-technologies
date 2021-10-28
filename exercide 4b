@@ -1,0 +1,24 @@
+    internal css for anchor.html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: white;}
+h1   {color: blue;}
+a:link {color : red ;}
+a:visited {color : green ;}
+a:hover {color : orange ;}
+a:active {color : black;}
+h1 {text-align : center;
+	border : 20px solid pink ; 
+	padding : 20px;}
+a {text-decoration : none;}
+</style>
+</head>
+<body>
+	<h1>anchor tag properties</h1>
+	<a href="details.html">
+		click here
+	</a>
+</body>
+</html>
