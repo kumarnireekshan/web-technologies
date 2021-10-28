@@ -1,0 +1,10 @@
+    inline css.html
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body style="background-color:powderblue;">
+	<h1 style="color:blue;">Heading level 1</h1>
+	<p style="color:blue;">A small paragraph</p>
+</body>
+</html>
